@@ -1,0 +1,5 @@
+theme: minimal-mistakes-jekyll
+title: Your Name
+description: Particle physicist | Lattice QCD | CERN
+plugins:
+  - jekyll-include-cache
